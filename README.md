@@ -1,0 +1,1 @@
+# timeseriesmodel_goldprice_sarimae
